@@ -1,0 +1,69 @@
+h1 {
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 65px;
+    text-shadow: 5px 5px 5px #000000;
+}
+
+body {
+    background-image: url("page-background2.png");
+}
+
+h5 {
+    font-family: dosis;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+d {
+    font-family: dosis;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+
+h2 {
+    font-size: 32;
+    color: white;
+    text-align: center;
+    font-family: dosis;
+}
+
+h3 {
+    font-size: 22;
+    color: white;
+    text-align: center;
+    font-family: dosis;
+}
+
+h4 {
+    font-size: 22;
+    color: white;
+    object-position: 5px 5%;
+    font-family: dosis;
+    position: fixed;
+  bottom: 625;
+  right: 0;
+  width: 1300px;
+}
+
+a:link, a:visited {
+    color: white;
+}
+
+a:hover, a:active {
+    color: grey;
+    text-shadow: 5px 5px 5px #000000;
+}
+
+img {
+    height: 200px;
+    border-radius: 10px;
+}
+
+.hidden {
+    opacity: 0%;
+}
